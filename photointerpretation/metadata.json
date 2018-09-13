@@ -1,0 +1,13 @@
+{
+"name": "photointerpretation",
+"description": "photointerpretation",
+"version": "2",
+"minzoom": "0",
+"maxzoom": "19",
+"center": "141.959496,42.730118,19",
+"bounds": "141.817196,42.549935,142.149806,42.851133",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v1.31.5",
+"json": "{\"vector_layers\": [ { \"id\": \"photointerpretation_area\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 19, \"fields\": {\"内容\": \"String\", \"名称\": \"String\"} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"photointerpretation_area\",\"count\": 17,\"geometry\": \"Polygon\",\"attributeCount\": 2,\"attributes\": [{\"attribute\": \"内容\",\"count\": 5,\"type\": \"string\",\"values\": [\"2018年9月10日判読範囲\",\"2018年9月11日判読範囲\",\"2018年9月12日判読範囲\",\"2018年9月8日判読範囲\",\"雲による判読不能範囲\"]},{\"attribute\": \"名称\",\"count\": 2,\"type\": \"string\",\"values\": [\"判読領域\",\"雲\"]}]}]}}"
+}
